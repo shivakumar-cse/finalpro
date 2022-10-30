@@ -37,3 +37,5 @@ Here I created a webpage named MOBILE STORE that helps customer to find a cheap 
 ![Screenshot (18)](https://user-images.githubusercontent.com/110882519/198882791-da62653c-e179-4add-a885-8cb0798266c0.png)
 ![Screenshot (19)](https://user-images.githubusercontent.com/110882519/198882807-7f5d82c3-9301-4a0f-872f-4f2389485f79.png)
 
+## Azure portal screenshot
+![Screenshot (20)](https://user-images.githubusercontent.com/110882519/198883085-fbea05e4-0b30-4400-af82-33e3ff52867b.png)
